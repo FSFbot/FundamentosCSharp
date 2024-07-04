@@ -1,0 +1,15 @@
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\bin\Debug\net6.0\AppTeste.exe
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\bin\Debug\net6.0\AppTeste.deps.json
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\bin\Debug\net6.0\AppTeste.runtimeconfig.json
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\bin\Debug\net6.0\AppTeste.dll
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\bin\Debug\net6.0\AppTeste.pdb
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\obj\Debug\net6.0\AppTeste.csproj.AssemblyReference.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\obj\Debug\net6.0\AppTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\obj\Debug\net6.0\AppTeste.AssemblyInfoInputs.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\obj\Debug\net6.0\AppTeste.AssemblyInfo.cs
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\obj\Debug\net6.0\AppTeste.csproj.CoreCompileInputs.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\obj\Debug\net6.0\AppTeste.dll
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\obj\Debug\net6.0\refint\AppTeste.dll
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\obj\Debug\net6.0\AppTeste.pdb
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\obj\Debug\net6.0\AppTeste.genruntimeconfig.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AppTeste\obj\Debug\net6.0\ref\AppTeste.dll

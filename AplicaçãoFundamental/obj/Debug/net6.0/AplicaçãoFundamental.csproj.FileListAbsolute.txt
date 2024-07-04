@@ -1,0 +1,15 @@
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\bin\Debug\net6.0\AplicaçãoFundamental.exe
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\bin\Debug\net6.0\AplicaçãoFundamental.deps.json
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\bin\Debug\net6.0\AplicaçãoFundamental.runtimeconfig.json
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\bin\Debug\net6.0\AplicaçãoFundamental.dll
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\bin\Debug\net6.0\AplicaçãoFundamental.pdb
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\obj\Debug\net6.0\AplicaçãoFundamental.csproj.AssemblyReference.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\obj\Debug\net6.0\AplicaçãoFundamental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\obj\Debug\net6.0\AplicaçãoFundamental.AssemblyInfoInputs.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\obj\Debug\net6.0\AplicaçãoFundamental.AssemblyInfo.cs
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\obj\Debug\net6.0\AplicaçãoFundamental.csproj.CoreCompileInputs.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\obj\Debug\net6.0\AplicaçãoFundamental.dll
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\obj\Debug\net6.0\refint\AplicaçãoFundamental.dll
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\obj\Debug\net6.0\AplicaçãoFundamental.pdb
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\obj\Debug\net6.0\AplicaçãoFundamental.genruntimeconfig.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\AplicaçãoFundamental\obj\Debug\net6.0\ref\AplicaçãoFundamental.dll
