@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "Stopwatch\Stop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor", "TextEditor\TextEditor.csproj", "{AB33F09F-57F6-4F63-9C9F-975A8275F1C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsManager", "StringsManager\StringsManager.csproj", "{69EA1C26-3FBF-4251-B52B-D99C31577786}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{AB33F09F-57F6-4F63-9C9F-975A8275F1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB33F09F-57F6-4F63-9C9F-975A8275F1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB33F09F-57F6-4F63-9C9F-975A8275F1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69EA1C26-3FBF-4251-B52B-D99C31577786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EA1C26-3FBF-4251-B52B-D99C31577786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EA1C26-3FBF-4251-B52B-D99C31577786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EA1C26-3FBF-4251-B52B-D99C31577786}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

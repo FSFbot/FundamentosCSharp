@@ -1,0 +1,15 @@
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\bin\Debug\net6.0\StringsManager.exe
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\bin\Debug\net6.0\StringsManager.deps.json
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\bin\Debug\net6.0\StringsManager.runtimeconfig.json
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\bin\Debug\net6.0\StringsManager.dll
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\bin\Debug\net6.0\StringsManager.pdb
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\obj\Debug\net6.0\StringsManager.csproj.AssemblyReference.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\obj\Debug\net6.0\StringsManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\obj\Debug\net6.0\StringsManager.AssemblyInfoInputs.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\obj\Debug\net6.0\StringsManager.AssemblyInfo.cs
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\obj\Debug\net6.0\StringsManager.csproj.CoreCompileInputs.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\obj\Debug\net6.0\StringsManager.dll
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\obj\Debug\net6.0\refint\StringsManager.dll
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\obj\Debug\net6.0\StringsManager.pdb
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\obj\Debug\net6.0\StringsManager.genruntimeconfig.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\StringsManager\obj\Debug\net6.0\ref\StringsManager.dll
