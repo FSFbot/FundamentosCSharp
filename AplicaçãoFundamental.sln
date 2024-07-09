@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor", "TextEditor\Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsManager", "StringsManager\StringsManager.csproj", "{69EA1C26-3FBF-4251-B52B-D99C31577786}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorHtml", "EditorHtml\EditorHtml.csproj", "{2562D152-6689-45C2-8E63-9340C995CE50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{69EA1C26-3FBF-4251-B52B-D99C31577786}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69EA1C26-3FBF-4251-B52B-D99C31577786}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69EA1C26-3FBF-4251-B52B-D99C31577786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2562D152-6689-45C2-8E63-9340C995CE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2562D152-6689-45C2-8E63-9340C995CE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2562D152-6689-45C2-8E63-9340C995CE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2562D152-6689-45C2-8E63-9340C995CE50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
