@@ -1,0 +1,15 @@
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\obj\Debug\net6.0\ListaCompression.csproj.AssemblyReference.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\obj\Debug\net6.0\ListaCompression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\obj\Debug\net6.0\ListaCompression.AssemblyInfoInputs.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\obj\Debug\net6.0\ListaCompression.AssemblyInfo.cs
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\obj\Debug\net6.0\ListaCompression.csproj.CoreCompileInputs.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\bin\Debug\net6.0\ListaCompression.exe
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\bin\Debug\net6.0\ListaCompression.deps.json
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\bin\Debug\net6.0\ListaCompression.runtimeconfig.json
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\bin\Debug\net6.0\ListaCompression.dll
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\bin\Debug\net6.0\ListaCompression.pdb
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\obj\Debug\net6.0\ListaCompression.dll
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\obj\Debug\net6.0\refint\ListaCompression.dll
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\obj\Debug\net6.0\ListaCompression.pdb
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\obj\Debug\net6.0\ListaCompression.genruntimeconfig.cache
+C:\Users\felip\RiderProjects\AplicaçãoFundamental\ListaCompression\obj\Debug\net6.0\ref\ListaCompression.dll
